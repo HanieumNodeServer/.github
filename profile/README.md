@@ -73,10 +73,10 @@
 
 ## 멤버 소개
 
-|                                           |                                        | <img src="https://user-images.githubusercontent.com/79521972/215472852-665c36fd-1397-461e-aced-6380dc92f563.png" width="100px"> |                                      |
-| :---------------------------------------: | :------------------------------------: | :----------------------------------------------------------: | :----------------------------------: |
+|                                           |<img src = "https://user-images.githubusercontent.com/77714083/217750266-1c249c39-af23-4210-bb13-8a21dc72ea89.jpg" width = "150px">                                       | <img src="https://user-images.githubusercontent.com/79521972/215472852-665c36fd-1397-461e-aced-6380dc92f563.png" width="150px"> |                                     |
+| :---------------------------------------------: | :------------------------------------: |  :------------------------------------: | :----------------------------------: |
 | [최다솜](https://github.com/podongx2somm) | [황수현](https://github.com/suhyeon17) |           [강창룡](https://github.com/speardragon)           | [조준기](https://github.com/jknadan) |
-|             Chatbot AI, Lead              |               Chatbot AI               |                  App Backend, App Frontend                   |      App Backend, App Frontend       |
+|             Chatbot AI <br> Lead              |               Chatbot AI <br> PM              |                  App Backend <br> App Frontend                   |      App Backend <br> App Frontend       |
 
 
 
