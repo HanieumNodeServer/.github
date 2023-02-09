@@ -30,7 +30,7 @@
 
 
 
-
+#### <br/>
 ## 기술 스택
 
 |                           Frontend                           |                           Backend                            |                              DB                              |                            MODEL                             |                          TEST TOOL                           |
@@ -40,7 +40,7 @@
 
 
 
-
+#### <br/>
 ## 서비스 구성도
 
 ![image](https://user-images.githubusercontent.com/79521972/215478809-1bf2bb82-f2c9-4561-90c3-dec658c53bdb.png)
@@ -55,7 +55,7 @@
 - 당일 기준으로부터 약 30일까지의 데이터만 Tmoney 사에서 제공해주어서 약 한 달치의 정보만 예약만 접근 가능합니다.
 
 
-
+#### <br/>
 ## 어플리케이션 기능 시연
 
 - 더 많은 사용자 요구에 유연하게 대응하기 위해 다양한 상황에도 동작할 수 있도록 설계했습니다. 아래 경우들이 그 예시입니다.
@@ -70,7 +70,7 @@
 
 
 
-
+#### <br/>
 ## 멤버 소개
 
 |                                           |<img src = "https://user-images.githubusercontent.com/77714083/217750266-1c249c39-af23-4210-bb13-8a21dc72ea89.jpg" width = "150px">                                       | <img src="https://user-images.githubusercontent.com/79521972/215472852-665c36fd-1397-461e-aced-6380dc92f563.png" width="150px"> |                                     |
@@ -81,10 +81,11 @@
 
 
 
-
+#### <br/>
 ## Reference
-- [KoBERT-Transformers](https://github.com/monologg/KoBERT-Transformers)
-- [BERT_sandwich_order](https://github.com/k151202/BERT_sandwich_order)
+[1] [KoBERT-Transformers](https://github.com/monologg/KoBERT-Transformers)<br/>
+[2] [BERT_sandwich_order](https://github.com/k151202/BERT_sandwich_order)<br/>
+[3] [카카오엔터프라이즈 기술블로그 Tech&(테크앤)](https://tech.kakaoenterprise.com/58)<br/>
 
 
 
