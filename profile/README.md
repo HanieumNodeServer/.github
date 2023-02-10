@@ -80,7 +80,8 @@
 #### <br/>
 ## 멤버 소개
 
-|                 <img src ="https://user-images.githubusercontent.com/99237732/217768543-78df9979-a377-4c23-a247-fda5a978b69f.jpg" width="150px">                         |<img src = "https://user-images.githubusercontent.com/77714083/217750266-1c249c39-af23-4210-bb13-8a21dc72ea89.jpg" width = "150px">                                       | <img src="https://user-images.githubusercontent.com/79521972/215472852-665c36fd-1397-461e-aced-6380dc92f563.png" width="150px"> |                                     |
+|                 <img src ="https://user-images.githubusercontent.com/99237732/217768543-78df9979-a377-4c23-a247-fda5a978b69f.jpg" width="150px">                         |<img src = "https://user-images.githubusercontent.com/77714083/217750266-1c249c39-af23-4210-bb13-8a21dc72ea89.jpg" width = "150px">                                       | <img src="https://user-images.githubusercontent.com/79521972/215472852-665c36fd-1397-461e-aced-6380dc92f563.png" width="150px"> |<img src="https://user-images.githubusercontent.com/66247589/217990202-aab8cae9-5e1d-4452-95da-ad7451142ab7.png" width="150px">
+                                     |
 | :---------------------------------------------: | :------------------------------------: |  :------------------------------------: | :----------------------------------: |
 | [최다솜](https://github.com/podongx2somm) | [황수현](https://github.com/suhyeon17) |           [강창룡](https://github.com/speardragon)           | [조준기](https://github.com/jknadan) |
 |             Chatbot AI <br> Lead              |               Chatbot AI <br> PM              |                  App Backend <br> App Frontend                   |      App Backend <br> App Frontend       |
